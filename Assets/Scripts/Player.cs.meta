@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7ab225fe2b8054546818b3c0a51373e9
+timeCreated: 1501166172
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - block: {fileID: 1779107388726036, guid: 03b35e4e420521846b5f43f88fe1cfa1, type: 2}
+  - scoreText: {instanceID: 0}
+  - loseText: {instanceID: 0}
+  - followCamera: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
